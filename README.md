@@ -1,15 +1,16 @@
-<h2 align="center"> ━━━━━━  ❖  ━━━━━━ </h2>
+# Decay Gtk
 
-<div align="center">
-  <code>decay theme for gtk3</code> ~ this is modification of <a href="https://github.com/janleigh/gtk3">janleigh's fork</a> of elkowar's fork of phocus but using the decay palette xD.
-</div>
+<code>decay theme for gtk3</code> ~ this is modification of <a href="https://github.com/janleigh/gtk3">janleigh's fork</a> of elkowar's fork of phocus but using the decay palette.
 
-<img src="./.misc/decay.png" align="left" width="400px"/>
-<img src="./.misc/dark-decay.png" align="right" width="400px"/>
+## Screenshots
+
+### Decay
+<img src="./.misc/decay.png" align="center" />
+
+### Dark Decay
+<img src="./.misc/dark-decay.png" align="center" />
 
 ### — Installation
-
-<br />
 
 ```sh
 # First, clone the repository.
