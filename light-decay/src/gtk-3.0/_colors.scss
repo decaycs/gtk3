@@ -1,0 +1,20 @@
+$background-1: #dee1e6 ;
+$background-2: #d9dce1;
+$background-3: #d4d7dc;
+
+$accent-1: #bd3c42;
+$accent-2: #ceac67;
+$accent-3: #d3b16c;
+$accent-4: #69b373;
+$accent-5: #4d82c8;
+$accent-6: #a367cb;
+$accent-7: #a86cd0;
+$accent-8: #ad71d5;
+
+$primary-accent: $accent-4;
+$secondary-accent: $accent-5;
+
+$foreground-color: #101419;
+
+// TODO: is there a better way to do this? this is for example used in gnome-calculator for the result top-border
+@define-color borders #{"" +$background-2};

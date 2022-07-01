@@ -10,6 +10,9 @@
 ### Dark Decay
 <img src="./.misc/dark-decay.png" align="center" />
 
+### Light Decay
+<img src="./.misc/light-decay.png" align="center" />
+
 ### — Installation
 
 ```sh
@@ -17,7 +20,7 @@
 $ git clone https://github.com/decaycs/gtk3 decay-gtk3
 
 # Then go to the decay version you want
-cd decay-gtk3/decay # or decay-gtk3/dark-decay
+cd decay-gtk3/decay # or decay-gtk3/dark-decay, or decay-gtk3/light-decay
 
 # Then, install sass compiler.
 $ npm install -g sass
@@ -31,7 +34,7 @@ $ make && sudo make install
 Then set it in your `~/.config/gtk-3/settings.ini` using the `gtk-theme-name` key:
 
 ```ini
-gtk-theme-name=decay # or dark_decay
+gtk-theme-name=decay # or dark_decay, or light_decay
 ```
 
 ### Enjoy
