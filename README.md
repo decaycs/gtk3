@@ -10,6 +10,10 @@
 ### Dark Decay
 <img src="./.misc/dark-decay.png" align="center" />
 
+### Decayce
+
+<img src="./.misc/decayce.png" align="center" />
+
 ### Light Decay
 <img src="./.misc/light-decay.png" align="center" />
 
@@ -20,7 +24,7 @@
 $ git clone https://github.com/decaycs/gtk3 decay-gtk3
 
 # Then go to the decay version you want
-cd decay-gtk3/decay # or decay-gtk3/dark-decay, or decay-gtk3/light-decay
+cd decay-gtk3/decay # or decay-gtk3/dark-decay, or decay-gtk3/light-decay or decay-gtk3/decayce
 
 # Then, install sass compiler.
 $ npm install -g sass
