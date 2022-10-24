@@ -2,6 +2,10 @@
 
 <code>decay theme for gtk3</code> ~ this is modification of <a href="https://github.com/janleigh/gtk3">janleigh's fork</a> of elkowar's fork of phocus but using the decay palette.
 
+## Deprecation notice
+
+Yes, this repo will be deprecated in favor of the [decay-gtk](https://github.com/decaycs/decay-gtk) (which is a better port than this one).
+
 ## Screenshots
 
 ### Decay
